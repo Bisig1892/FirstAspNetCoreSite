@@ -1,2 +1,19 @@
-﻿body {
+﻿header{
+    text-align: center;
+    color: blue;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+footer{
+    text-align: center;
+    color: green;
+}
+
+a{
+    margin: 100px;
+    color: red;
 }
